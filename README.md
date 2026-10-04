@@ -21,9 +21,9 @@ I combine a strong software engineering background with hands-on experience in m
 
 | Project | Focus & Results |
 |---|---|
-| [LLM Knowledge Graph Construction](https://github.com/fouadhakim18) | processed **20,149 historical records** and normalized **5,361 relation types into 29 canonical relations**. |
 | [Speaker Attribution & Sentiment Analysis](https://github.com/fouadhakim18/rital-speaker-sentiment) | Hybrid **CamemBERT + TF-IDF** pipeline; **88.3 F1** for attribution and **91.3% accuracy** for sentiment classification. |
 | [Multimodal Virality Prediction](https://github.com/fouadhakim18/reddit-attention-dynamics) | Analyzed **600k+ Reddit posts** using metadata, text, and images; best model achieved **0.98 ROC-AUC**. |
+| [LLM Knowledge Graph Construction](https://github.com/fouadhakim18) | processed **20,149 historical records** and normalized **5,361 relation types into 29 canonical relations**. |
 | [Generative ECG Diagnosis](https://github.com/fouadhakim18/gan-lstm-ecg-diagnosis) | Conditional GAN with bidirectional LSTMs; **91.43% accuracy** and **0.95 AUC**. |
 | [Bioacoustic Species Classification](https://github.com/fouadhakim18/pantanal-species-identification) | Multi-label classification across **234 species**; **0.770 macro ROC-AUC** with BirdNET embeddings. |
 
