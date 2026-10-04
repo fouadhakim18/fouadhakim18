@@ -1,14 +1,48 @@
 <h1 align="center">Hi 👋, I'm Abdelhakim Fouad MAROC</h1>
-<h3 align="center">AI & Software Engineer | Machine Learning Enthusiast | Mobile & Web Developer</h3>
+<h3 align="center">AI & Machine Learning · Research & Software Engineering</h3>
 
-- 🌱 I’m currently learning **Advanced Deep Learning & Reinforcement Learning**
+<p align="center">
+  🎓 Master's student in Machine Learning, Artificial Intelligence & Data at Sorbonne Université<br>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://hakim-maroc.vercel.app/](https://hakim-maroc.vercel.app/)
+---
 
-- 💬 Ask me about **Flutter, Web Development, Machine Learning, Deep Learning**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **af.maroc@esi-sba.dz**
+I combine a strong software engineering background with hands-on experience in machine learning research, experimentation, and deployment.
 
+🔎 **Seeking a final-year internship (PFE)** in **Machine Learning, NLP/LLMs, Computer Vision, Generative AI, or Multimodal Learning**.
+
+- 🧠 Currently deepening my knowledge of **Advanced Deep Learning & Reinforcement Learning**.
+- 🛠️ Experienced in building **web and mobile applications**, from architecture to deployment.
+- 💬 Happy to discuss **AI, machine learning, Flutter, and full-stack development**.
+
+### 🔬 Selected AI Projects
+
+| Project | Focus & Results |
+|---|---|
+| [LLM Knowledge Graph Construction](https://github.com/fouadhakim18) | processed **20,149 historical records** and normalized **5,361 relation types into 29 canonical relations**. |
+| [Speaker Attribution & Sentiment Analysis](https://github.com/fouadhakim18/rital-speaker-sentiment) | Hybrid **CamemBERT + TF-IDF** pipeline; **88.3 F1** for attribution and **91.3% accuracy** for sentiment classification. |
+| [Multimodal Virality Prediction](https://github.com/fouadhakim18/reddit-attention-dynamics) | Analyzed **600k+ Reddit posts** using metadata, text, and images; best model achieved **0.98 ROC-AUC**. |
+| [Generative ECG Diagnosis](https://github.com/fouadhakim18/gan-lstm-ecg-diagnosis) | Conditional GAN with bidirectional LSTMs; **91.43% accuracy** and **0.95 AUC**. |
+| [Bioacoustic Species Classification](https://github.com/fouadhakim18/pantanal-species-identification) | Multi-label classification across **234 species**; **0.770 macro ROC-AUC** with BirdNET embeddings. |
+
+### 🛠️ Technical Skills
+
+- **Machine Learning:** Python, PyTorch, TensorFlow/Keras, scikit-learn, XGBoost
+- **NLP & Generative AI:** Hugging Face Transformers, LLMs, fine-tuning, RAG, prompt engineering
+- **Computer Vision & Multimodal Learning:** OpenCV, torchvision, ResNet, Vision Transformers, CLIP
+- **Data & Knowledge Graphs:** Pandas, NumPy, SQL, PostgreSQL, Neo4j/Cypher
+- **Software & Deployment:** Flutter, React, Next.js, Git, Docker, REST APIs, CI/CD
+
+### 📫 Let's Connect
+
+I'm interested in research and engineering teams working on challenging AI problems.
+
+- 🌐 **Portfolio:** [hakim-maroc.vercel.app](https://hakim-maroc.vercel.app/)
+- 💼 **LinkedIn:** [Abdelhakim Fouad MAROC](https://www.linkedin.com/in/hakim-maroc-61039427b/)
+- 📧 **Email:** [af.maroc@esi-sba.dz](mailto:af.maroc@esi-sba.dz)
+- 💻 **GitHub:** [@fouadhakim18](https://github.com/fouadhakim18)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hakim-maroc-61039427b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakim-maroc-61039427b" height="30" width="40" /></a>
