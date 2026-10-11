@@ -21,6 +21,7 @@ I combine a strong software engineering background with hands-on experience in m
 
 | Project | Focus & Results |
 |---|---|
+| [CaseTrace](https://github.com/fouadhakim18/casetrace) | **Agentic RAG platform** with a LangGraph investigator–verifier workflow, FAISS retrieval, source citations and human review. Built with **Python/FastAPI**; compared with single-pass RAG on synthetic dossiers, tracking findings, token usage and latency; **22 automated tests**. |
 | [Graph Feature Rescue](https://github.com/fouadhakim18/gnn-feature-missingness) | Controlled **GCN vs MLP** study on Cora with a degree-preserving rewired-graph baseline; **180 evaluations** across five splits and three repetitions. At **75% feature erasure**, GCN achieved **65.81% mean accuracy** vs **25.65%** for MLP. |
 | [Speaker Attribution & Sentiment Analysis](https://github.com/fouadhakim18/rital-speaker-sentiment) | Hybrid **CamemBERT + TF-IDF** pipeline; **88.3 F1** for attribution and **91.3% accuracy** for sentiment classification. |
 | [Multimodal Virality Prediction](https://github.com/fouadhakim18/reddit-attention-dynamics) | Analyzed **600k+ Reddit posts** using metadata, text, and images; best model achieved **0.98 ROC-AUC**. |
